@@ -8,7 +8,7 @@ This Repository is about Data Analysis of Students' Performance on Acadamics con
 
 Some of Questions and Results of it are as follows:
 ##### Que-1: Calculate PPS(Predictive Power Score) for Feature Engineering 
-![plot](./results/Screenshot 2022-07-21 103709.jpg)
+![plot](./results/Screenshot%202022-07-21%20103709.jpg)
 ![plot](./results/Screenshot 2022-07-21 103817.jpg)
 
 ##### Que-2: Figure out how family relation(famrel) and parents cohabitation(Pstatus) affect grades of students.
