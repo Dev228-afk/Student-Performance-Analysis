@@ -11,7 +11,7 @@ Some of Questions and Results of it are as follows:
 
 <img src="./results/Screenshot%202022-07-21%20103709.jpg" width=650px height=300px>
 
-<img src="./results/Screenshot%202022-07-21%20103817.jpg" width=650px height=300px>
+<img src="./results/Screenshot%202022-07-21%20103817.jpg" width=650px height=400px>
 
 ### Que-2: Figure out how family relation(famrel) and parents cohabitation(Pstatus) affect grades of students.
 ![plot](./results/Que-2.jpg {width=40px height=300px})
