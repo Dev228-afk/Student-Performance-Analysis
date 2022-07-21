@@ -1,5 +1,10 @@
 # Student-Performance-Analysis
 This Repository is about Data Analysis of Students' Performance on Acadamics considering various parameters that affects their studies.
+
+** _Note:_ For Detailed Data Description and to run Notebook Please click following link: **
+- Link of Dataset: (https://www.kaggle.com/datasets/devansodariya/student-performance-data) 
+- Link of Notebook: (https://www.kaggle.com/code/devansodariya/student-performance-analytics) 
+
 ### This Repo contain detailed analysis ansewring crucial question like, 
   - correlations between various features and grades
   - which features have a significant impact on grades
