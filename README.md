@@ -21,7 +21,7 @@ Some of Questions and Results of it are as follows:
 
 ### Que-3: Figure out which features in the data are skewed, and propose a way to remove skew from all such columns.
 
-<img src="./results/Que-3_1.jpg" width=400px height=300px>
+<img src="./results/Que-3_1.jpg" width=300px height=300px>
 
 <img src="./results/Que-3_2.jpg" width=650px height=300px>
 
